@@ -1,0 +1,10 @@
+C:\Users\rlong14\Desktop\2017-Sep-In-Class-DMIT-2018-A02 (2)\2017-Sep-In-Class-DMIT-2018-A02\Northwind 2018\NorthwindTraders\bin\Debug\NorthwindTraders.dll.config
+C:\Users\rlong14\Desktop\2017-Sep-In-Class-DMIT-2018-A02 (2)\2017-Sep-In-Class-DMIT-2018-A02\Northwind 2018\NorthwindTraders\bin\Debug\NorthwindTraders.dll
+C:\Users\rlong14\Desktop\2017-Sep-In-Class-DMIT-2018-A02 (2)\2017-Sep-In-Class-DMIT-2018-A02\Northwind 2018\NorthwindTraders\bin\Debug\NorthwindTraders.pdb
+C:\Users\rlong14\Desktop\2017-Sep-In-Class-DMIT-2018-A02 (2)\2017-Sep-In-Class-DMIT-2018-A02\Northwind 2018\NorthwindTraders\bin\Debug\EntityFramework.dll
+C:\Users\rlong14\Desktop\2017-Sep-In-Class-DMIT-2018-A02 (2)\2017-Sep-In-Class-DMIT-2018-A02\Northwind 2018\NorthwindTraders\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rlong14\Desktop\2017-Sep-In-Class-DMIT-2018-A02 (2)\2017-Sep-In-Class-DMIT-2018-A02\Northwind 2018\NorthwindTraders\bin\Debug\EntityFramework.xml
+C:\Users\rlong14\Desktop\2017-Sep-In-Class-DMIT-2018-A02 (2)\2017-Sep-In-Class-DMIT-2018-A02\Northwind 2018\NorthwindTraders\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rlong14\Desktop\2017-Sep-In-Class-DMIT-2018-A02 (2)\2017-Sep-In-Class-DMIT-2018-A02\Northwind 2018\NorthwindTraders\obj\Debug\NorthwindTraders.csprojResolveAssemblyReference.cache
+C:\Users\rlong14\Desktop\2017-Sep-In-Class-DMIT-2018-A02 (2)\2017-Sep-In-Class-DMIT-2018-A02\Northwind 2018\NorthwindTraders\obj\Debug\NorthwindTraders.dll
+C:\Users\rlong14\Desktop\2017-Sep-In-Class-DMIT-2018-A02 (2)\2017-Sep-In-Class-DMIT-2018-A02\Northwind 2018\NorthwindTraders\obj\Debug\NorthwindTraders.pdb
